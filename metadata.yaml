@@ -1,0 +1,28 @@
+_repo: George-Borrow-the-Man-and-His-Work_63880
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walling, R. A. J. (Robert Alfred John)
+    alias: Walling, Robert Alfred John
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '52648'
+    url: http://www.gutenberg.org/2009/agents/52648
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Alfred_John_Walling
+description: ''
+gutenberg_issued: '2020-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63880'
+  lccn: 09008065
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Borrow, George, 1803-1881'
+- !lcc 'PR'
+- !lcsh 'Borrow, George, 1803-1881 -- Criticism and interpretation'
+- GITenberg
+title: George Borrow, the Man and His Work
+url: http://www.gutenberg.org/ebooks/63880
